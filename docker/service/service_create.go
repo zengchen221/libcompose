@@ -10,12 +10,12 @@ import (
 	"github.com/docker/docker/api/types"
 	containertypes "github.com/docker/docker/api/types/container"
 	"github.com/docker/docker/api/types/network"
-	"github.com/docker/libcompose/config"
-	composecontainer "github.com/docker/libcompose/docker/container"
-	"github.com/docker/libcompose/labels"
-	"github.com/docker/libcompose/project"
-	"github.com/docker/libcompose/project/events"
-	util "github.com/docker/libcompose/utils"
+	"github.com/zengchen221/libcompose/config"
+	composecontainer "github.com/zengchen221/libcompose/docker/container"
+	"github.com/zengchen221/libcompose/labels"
+	"github.com/zengchen221/libcompose/project"
+	"github.com/zengchen221/libcompose/project/events"
+	util "github.com/zengchen221/libcompose/utils"
 	"github.com/sirupsen/logrus"
 )
 

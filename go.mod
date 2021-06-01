@@ -1,4 +1,4 @@
-module github.com/docker/libcompose
+module github.com/zengchen221/libcompose
 
 go 1.15
 

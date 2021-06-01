@@ -1,10 +1,10 @@
 package app
 
 import (
-	"github.com/docker/libcompose/cli/logger"
-	"github.com/docker/libcompose/docker"
-	"github.com/docker/libcompose/docker/ctx"
-	"github.com/docker/libcompose/project"
+	"github.com/zengchen221/libcompose/cli/logger"
+	"github.com/zengchen221/libcompose/docker"
+	"github.com/zengchen221/libcompose/docker/ctx"
+	"github.com/zengchen221/libcompose/project"
 	"github.com/urfave/cli"
 )
 

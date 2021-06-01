@@ -3,7 +3,7 @@ package lookup
 import (
 	"testing"
 
-	"github.com/docker/libcompose/config"
+	"github.com/zengchen221/libcompose/config"
 )
 
 type simpleEnvLookup struct {

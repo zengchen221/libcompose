@@ -5,7 +5,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/docker/libcompose/utils"
+	"github.com/zengchen221/libcompose/utils"
 	"github.com/sirupsen/logrus"
 )
 
